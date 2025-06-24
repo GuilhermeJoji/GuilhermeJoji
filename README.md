@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-My name is guilherme Joji Ito silva,
+My name is Guilherme Joji Ito Silva,
 
 I help industries and businesses become more efficient, productive, and competitive through process improvement, Lean Six Sigma, Lean Office, automation, and financial management.
 
