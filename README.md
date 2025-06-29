@@ -2,7 +2,7 @@
 
 <p align="center">
   Process Consultant | Founder @ManaMoney | Industrial Engineering Student<br>
-  Lean Six Sigma Black Belt | Bridging industry, data, automation and gaming culture
+  Lean Six Sigma Black Belt | Bridging industry, data, automation, AI and gaming culture
 </p>
 
 ---
