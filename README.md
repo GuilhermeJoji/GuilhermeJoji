@@ -42,7 +42,7 @@ I’m passionate about solving problems — whether it’s optimizing a factory 
 ## 🧰 Tech Stack
 
 - 🐍 Python (Pandas, NumPy, Matplotlib, Streamlit, TensorFlow)
-- 📊 Excel, Power BI
+- 📊 Excel, VBA, Power BI, DAX
 - 🔄 Lean, Six Sigma, VSM, Kanban, Kaizen, Lean Office, Process Mapping
 - 📈 Financial Modeling, Cost Analysis, Controladoria, Management Dashboards
 - 🤖 BPM, Automation, RPAs, Productivity Tools
